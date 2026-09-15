@@ -3,8 +3,6 @@ Hi, I'm a Computer Engineer specialized in Cybersecurity.
 
 Here I collect everything I have developed and learned during my journey.
 
-## 🎓 Master's degree in Cybersecurity
-
 - [📊 Big Data Analysis with Apache Spark](https://github.com/serenarocc/BigData_Tourist_Analysis)
 - [🛰️ Exploring GNSS Security: Vulnerabilities, Spoofing, and Interference](https://github.com/serenarocc/GNSS-Global-Navigation-Satellite-System)
 - [🌐 Performance Evaluation in Ethernet and Wi-Fi Scenarios](https://github.com/serenarocc/WiFi)
