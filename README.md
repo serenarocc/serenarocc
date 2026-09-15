@@ -1,14 +1,8 @@
 ## Hi there 👋
 Hi, I'm a Computer Engineer specialized in Cybersecurity.
+
 Here I collect everything I have developed and learned during my journey.
 
-# Hi there 👋
-
-I'm a **Computer Engineer specialized in Cybersecurity**.
-
-On this GitHub profile, I collect the projects, research, and practical work I have developed throughout my academic journey in **Computer Engineering and Cybersecurity**.
-
----
 
 ## 🎓 University Projects
 
