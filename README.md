@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 Hi, I'm a Computer Engineer specialized in Cybersecurity.
 
 Here I collect everything I have developed and learned during my journey.
